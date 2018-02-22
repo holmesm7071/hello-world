@@ -1,6 +1,10 @@
 # hello-world
 Training repository
+readme-edits
 The first comment was created in the master readme file.
 This is the second comment using GitHub
 
-Making next comment for pracitice only. Need to know how GitHub timestamps comments.
+=======
+I am working on this verision control and colabaration software
+This is my first comment for this training course
+
